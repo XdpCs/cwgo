@@ -21,8 +21,8 @@ import (
 	"fmt"
 	"strings"
 
-	"github.com/cloudwego/cwgo/pkg/curd/code"
-	"github.com/cloudwego/cwgo/pkg/curd/extract"
+	"github.com/XdpCs/cwgo/pkg/curd/code"
+	"github.com/XdpCs/cwgo/pkg/curd/extract"
 
 	"github.com/fatih/camelcase"
 )

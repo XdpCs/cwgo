@@ -24,10 +24,10 @@ import (
 	"go/token"
 	"strings"
 
-	"github.com/cloudwego/cwgo/pkg/curd/code"
-	"github.com/cloudwego/cwgo/pkg/curd/extract"
-	"github.com/cloudwego/cwgo/pkg/curd/parse"
-	"github.com/cloudwego/cwgo/pkg/curd/template"
+	"github.com/XdpCs/cwgo/pkg/curd/code"
+	"github.com/XdpCs/cwgo/pkg/curd/extract"
+	"github.com/XdpCs/cwgo/pkg/curd/parse"
+	"github.com/XdpCs/cwgo/pkg/curd/template"
 
 	"golang.org/x/tools/go/ast/astutil"
 )

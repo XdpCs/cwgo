@@ -23,7 +23,7 @@ import (
 	"strings"
 
 	"github.com/Masterminds/sprig/v3"
-	"github.com/cloudwego/cwgo/pkg/consts"
+	"github.com/XdpCs/cwgo/pkg/consts"
 	"github.com/cloudwego/kitex/tool/internal_pkg/generator"
 )
 

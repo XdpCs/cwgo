@@ -39,10 +39,10 @@ the development efficiency and experience. The main features of cwgo tool are as
 
 ```bash
 # Go 1.15 and earlier version
-GO111MODULE=on GOPROXY=https://goproxy.cn/,direct go get github.com/cloudwego/cwgo@latest
+GO111MODULE=on GOPROXY=https://goproxy.cn/,direct go get github.com/XdpCs/cwgo@latest
 
 # Go 1.16 and later version
-GOPROXY=https://goproxy.cn/,direct go install github.com/cloudwego/cwgo@latest
+GOPROXY=https://goproxy.cn/,direct go install github.com/XdpCs/cwgo@latest
 ```
 
 ## Detailed Documentation
@@ -88,13 +88,13 @@ Including how to enable command line auto-completion function, see this [documen
 ## Open Source License
 
 cwgo is based on Apache License 2.0, [Apache License](https://github.com/cloudswego/cwgo/blob/main/LICENSE). 
-See [Licenses](https://github.com/cloudwego/cwgo/blob/main/licenses) for the open source licenses of the three party components on which it depends.
+See [Licenses](https://github.com/XdpCs/cwgo/blob/main/licenses) for the open source licenses of the three party components on which it depends.
 
 ## Contact Us
 
 - Email: conduct@cloudwego.io
 - How to become a member: [COMMUNITY MEMBERSHIP](https://github.com/cloudwego/community/blob/main/COMMUNITY_MEMBERSHIP.md)
-- Issues: [Issues](https://github.com/cloudwego/cwgo/issues)
+- Issues: [Issues](https://github.com/XdpCs/cwgo/issues)
 - Slack: Join our [Slack channel](https://join.slack.com/t/cloudwego/shared_invite/zt-tmcbzewn-UjXMF3ZQsPhl7W3tEDZboA)
 - Feishu group (Register for [Feishu](https://www.larksuite.com/en-US/download) and join the group)
 

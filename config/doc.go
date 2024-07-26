@@ -20,7 +20,7 @@ import (
 	"fmt"
 	"strings"
 
-	"github.com/cloudwego/cwgo/pkg/consts"
+	"github.com/XdpCs/cwgo/pkg/consts"
 	"github.com/cloudwego/hertz/cmd/hz/util"
 	"github.com/urfave/cli/v2"
 )

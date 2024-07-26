@@ -23,16 +23,16 @@ import (
 	"path/filepath"
 	"strings"
 
-	"github.com/cloudwego/cwgo/pkg/common/parser"
+	"github.com/XdpCs/cwgo/pkg/common/parser"
 
-	"github.com/cloudwego/cwgo/pkg/curd/doc/mongo/codegen"
-	"github.com/cloudwego/cwgo/pkg/curd/extract"
-	"github.com/cloudwego/cwgo/pkg/curd/parse"
-	"github.com/cloudwego/cwgo/pkg/curd/template"
+	"github.com/XdpCs/cwgo/pkg/curd/doc/mongo/codegen"
+	"github.com/XdpCs/cwgo/pkg/curd/extract"
+	"github.com/XdpCs/cwgo/pkg/curd/parse"
+	"github.com/XdpCs/cwgo/pkg/curd/template"
 
-	"github.com/cloudwego/cwgo/config"
-	"github.com/cloudwego/cwgo/pkg/common/utils"
-	"github.com/cloudwego/cwgo/pkg/consts"
+	"github.com/XdpCs/cwgo/config"
+	"github.com/XdpCs/cwgo/pkg/common/utils"
+	"github.com/XdpCs/cwgo/pkg/consts"
 	"github.com/cloudwego/hertz/cmd/hz/meta"
 )
 

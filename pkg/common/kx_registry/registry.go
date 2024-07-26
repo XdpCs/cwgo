@@ -19,9 +19,9 @@ import (
 	"os"
 	"path"
 
-	"github.com/cloudwego/cwgo/config"
-	"github.com/cloudwego/cwgo/pkg/consts"
-	"github.com/cloudwego/cwgo/tpl"
+	"github.com/XdpCs/cwgo/config"
+	"github.com/XdpCs/cwgo/pkg/consts"
+	"github.com/XdpCs/cwgo/tpl"
 	"github.com/cloudwego/kitex/tool/internal_pkg/generator"
 )
 

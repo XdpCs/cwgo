@@ -17,8 +17,8 @@
 package codegen
 
 import (
-	"github.com/cloudwego/cwgo/pkg/curd/code"
-	"github.com/cloudwego/cwgo/pkg/curd/parse"
+	"github.com/XdpCs/cwgo/pkg/curd/code"
+	"github.com/XdpCs/cwgo/pkg/curd/parse"
 )
 
 func queryCodegen(query *parse.Query) code.Statement {

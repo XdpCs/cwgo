@@ -23,9 +23,9 @@ import (
 	"path/filepath"
 	"strings"
 
-	"github.com/cloudwego/cwgo/config"
-	"github.com/cloudwego/cwgo/pkg/common/utils"
-	"github.com/cloudwego/cwgo/pkg/consts"
+	"github.com/XdpCs/cwgo/config"
+	"github.com/XdpCs/cwgo/pkg/common/utils"
+	"github.com/XdpCs/cwgo/pkg/consts"
 )
 
 func check(ca *config.ClientArgument) error {

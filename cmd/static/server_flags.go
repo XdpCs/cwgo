@@ -17,8 +17,8 @@
 package static
 
 import (
-	"github.com/cloudwego/cwgo/config"
-	"github.com/cloudwego/cwgo/pkg/consts"
+	"github.com/XdpCs/cwgo/config"
+	"github.com/XdpCs/cwgo/pkg/consts"
 	"github.com/urfave/cli/v2"
 )
 

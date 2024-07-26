@@ -21,17 +21,17 @@ import (
 	"os"
 	"strings"
 
-	"github.com/cloudwego/cwgo/pkg/common/kx_registry"
-	"github.com/cloudwego/cwgo/pkg/consts"
+	"github.com/XdpCs/cwgo/pkg/common/kx_registry"
+	"github.com/XdpCs/cwgo/pkg/consts"
 
-	"github.com/cloudwego/cwgo/pkg/common/utils"
+	"github.com/XdpCs/cwgo/pkg/common/utils"
 	kargs "github.com/cloudwego/kitex/tool/cmd/kitex/args"
 	"github.com/cloudwego/kitex/tool/internal_pkg/log"
 	"github.com/cloudwego/kitex/tool/internal_pkg/pluginmode/thriftgo"
 
 	"github.com/cloudwego/hertz/cmd/hz/app"
 
-	"github.com/cloudwego/cwgo/config"
+	"github.com/XdpCs/cwgo/config"
 
 	hzConfig "github.com/cloudwego/hertz/cmd/hz/config"
 	"github.com/cloudwego/hertz/cmd/hz/meta"

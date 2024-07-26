@@ -22,8 +22,8 @@ import (
 
 	"gorm.io/rawsql"
 
-	"github.com/cloudwego/cwgo/config"
-	"github.com/cloudwego/cwgo/pkg/consts"
+	"github.com/XdpCs/cwgo/config"
+	"github.com/XdpCs/cwgo/pkg/consts"
 
 	"gorm.io/gen"
 	"gorm.io/gorm"

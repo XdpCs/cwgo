@@ -21,8 +21,8 @@ import (
 	"os"
 	"strings"
 
-	"github.com/cloudwego/cwgo/config"
-	"github.com/cloudwego/cwgo/pkg/consts"
+	"github.com/XdpCs/cwgo/config"
+	"github.com/XdpCs/cwgo/pkg/consts"
 	"github.com/cloudwego/hertz/cmd/hz/app"
 	"github.com/cloudwego/hertz/cmd/hz/util/logs"
 	"github.com/cloudwego/kitex"
